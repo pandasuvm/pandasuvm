@@ -1,84 +1,41 @@
-# README
-
-## Introduction
-Welcome to my GitHub repository! I am a student at MIT Manipal, where I am currently learning Data Structures and Algorithms (DSA) and Full Stack Web Development. This repository serves as a collection of my projects, assignments, and personal explorations in these fields.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Technologies and Tools](#technologies-and-tools)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## About Me
-I am passionate about coding and constantly looking to improve my skills in DSA and web development. Through this repository, I aim to showcase my learning journey and contribute to the developer community.
-
-## Projects
-Here are some of the key projects in this repository:
-
-### 1. DSA Projects
-- **Sorting Algorithms**: Implementations of various sorting algorithms like Quick Sort, Merge Sort, and Bubble Sort.
-- **Data Structures**: Implementations of fundamental data structures such as linked lists, stacks, queues, and binary trees.
-
-### 2. Full Stack Web Development Projects
-- **Personal Portfolio Website**: A responsive personal portfolio website showcasing my projects and skills.
-- **E-commerce Platform**: A full-fledged e-commerce platform with features like user authentication, product listing, and shopping cart.
-
-## Technologies and Tools
-Here are some of the technologies and tools I frequently use:
-
-- **Languages**: JavaScript, Python, Java, HTML, CSS
-- **Front-end**: React, Bootstrap
-- **Back-end**: Node.js, Express.js, Django
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-
-## Installation
-To run any project locally, follow these general steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd your-repository-name
-   ```
-3. Install the required dependencies (if applicable):
-   ```sh
-   npm install
-   ```
-   or
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-## Usage
-Detailed usage instructions for each project can be found in their respective directories. Generally, you can start a project by running:
-
-For a Node.js project:
-   ```sh
-   npm start
-   ```
-
-For a Python project:
-   ```sh
-   python main.py
-   ```
-
-## Contributing
-I welcome contributions from the community! If you have an idea or a bug fix, feel free to fork the repository and open a pull request. Please ensure your contributions align with the project's coding standards and include relevant tests.
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+# 💫 About Me:
+👨‍💻 Front-End Developer | Engineering Student<br>🌍 Passionate about leveraging technology for sustainable development (SDGs).<br>🛠️ Crafting intuitive and responsive user interfaces.<br>🤖 Building autonomous robots, AI-driven solutions, and IoT applications.<br>📊 Projects in Health, Education, and SME Empowerment.<br>💡 Always exploring new ideas in AI, SDR, and generative design.<br>🚀 Hackathon enthusiast | Lifelong learner.<br><br>
 
 
-Thank you for visiting my GitHub repository!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/shubham-panda-699538258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codeguruu) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pandasuvm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pandasuvm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasuvm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pandasuvm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pandasuvm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Note: Customize the sections above with your actual information and project details.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 About Me:
+👨‍💻 Front-End Developer | Engineering Student<br>🌍 Passionate about leveraging technology for sustainable development (SDGs).<br>🛠️ Crafting intuitive and responsive user interfaces.<br>🤖 Building autonomous robots, AI-driven solutions, and IoT applications.<br>📊 Projects in Health, Education, and SME Empowerment.<br>💡 Always exploring new ideas in AI, SDR, and generative design.<br>🚀 Hackathon enthusiast | Lifelong learner.<br><br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/shubham-panda-699538258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codeguruu) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pandasuvm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pandasuvm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasuvm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pandasuvm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pandasuvm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
